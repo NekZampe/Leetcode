@@ -10,7 +10,7 @@ You can find all my submissions, rankings, and progress on my LeetCode profile:
 ### Solutions Overview
 - **Categories:** Algorithm, Data Structures, Dynamic Programming, Graph Theory, and more.
 - **Difficulty Levels:** Easy, Medium, Hard.
-- **Languages Used:** Python, C++, Java, and others.
+- **Language Used:** C++.
 
 ### Visual Showcase
 ![LeetCode Banner](https://miro.medium.com/v2/resize:fit:1008/1*VOQU8CuPG34Gsd1yJCadOQ.png)
